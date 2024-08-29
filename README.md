@@ -1,8 +1,6 @@
-### Hi there ~
+### Hi there
 
-I'm a front-end enthusiast and a college student on a mission to build beautiful digital experiences. 
-
-I'm currently pursuing a double major in computer science and statistics, which fuels my passion for problem-solving and data-driven insights. 
+I'm a Wheaton college student pursuing a double major in computer science and statistics. 
 
 **Top Languages I Code With:**
 
